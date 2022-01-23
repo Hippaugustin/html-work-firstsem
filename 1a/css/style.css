@@ -1,0 +1,46 @@
+body{
+	background-color:lightblue;
+	color: teal;
+	font-family: Book Antiqua;
+}
+
+h1{
+	color:navy;
+	text-align:center;
+
+}
+
+h2{
+	color: green;
+
+}
+
+hr{
+	font-size:0px;
+	color: navy;
+	background-color:navy;
+	line-height:30px;
+}
+a{
+	font-weight: bold;
+}
+a:link{
+	color: #0000CD;
+}
+
+a:visited{
+	color: yellow;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+a:active{
+	color: aqua;
+	background-color: navy;
+}
+
+p{
+	text-align:center;
+}
